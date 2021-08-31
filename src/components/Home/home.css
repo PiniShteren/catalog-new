@@ -1,0 +1,52 @@
+.home{
+      width: 100%;
+}
+.doors{
+      padding: 3vh 0vh 3vh 0vh;
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+}
+
+
+#door-item{
+      margin: 3vh;
+      width: 28vh;
+      height: 45vh;
+      display: flex;
+      padding:0vh 3vh 3vh 3vh;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      border-radius: 0.1vh;
+      box-shadow: 1px 1px 6px gray, 0 0 1px;
+}
+#img{
+      width: 30vh;
+      height: 26vh;
+      background-size: contain;
+      background-position: center;
+      background-repeat: no-repeat;
+}
+#details-item{
+      font-size: 2vh;
+      font-weight: bold;
+      text-align: center;
+}
+@media only screen and (max-width: 650px) {
+     
+      #door-item{
+            width: 80%;
+            height: 45vh;
+            display: flex;
+            padding:0vh 3vh 3vh 3vh;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            border-radius: 0.1vh;
+            box-shadow: 1px 1px 10px gray;
+            margin-bottom: 2%;
+      }
+}

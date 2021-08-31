@@ -1,0 +1,7 @@
+.contect{
+      position: fixed;
+      top: 0;
+      height: 95vh;
+      width: 100%;
+      background-color: rgba(27, 27, 27, 0.829);
+}

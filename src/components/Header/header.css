@@ -1,0 +1,26 @@
+.header{
+      background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(192, 192, 192));
+      box-shadow: 1px 1px 10px gray, 0 0 5px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+}
+.header h1{
+      color: rgb(194, 194, 194);
+      padding-right: 4vh;
+      text-shadow: 1px 1px 1px #000000;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn-menu{
+      display: none;
+}
+@media only screen and (max-width: 650px) {
+      .btn-menu{
+            display: block;
+            width: 6vh;
+            height: 6vh;
+            margin-left:5vh ;
+            background-size: contain;
+      }
+}
