@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pini-catalog/static/css/main.8ee99c55.chunk.css",
+    "main.js": "/pini-catalog/static/js/main.97a2477a.chunk.js",
+    "main.js.map": "/pini-catalog/static/js/main.97a2477a.chunk.js.map",
+    "runtime-main.js": "/pini-catalog/static/js/runtime-main.b90f076b.js",
+    "runtime-main.js.map": "/pini-catalog/static/js/runtime-main.b90f076b.js.map",
+    "static/js/2.98a5f8d9.chunk.js": "/pini-catalog/static/js/2.98a5f8d9.chunk.js",
+    "static/js/2.98a5f8d9.chunk.js.map": "/pini-catalog/static/js/2.98a5f8d9.chunk.js.map",
+    "static/js/3.9d8bce62.chunk.js": "/pini-catalog/static/js/3.9d8bce62.chunk.js",
+    "static/js/3.9d8bce62.chunk.js.map": "/pini-catalog/static/js/3.9d8bce62.chunk.js.map",
+    "index.html": "/pini-catalog/index.html",
+    "static/css/main.8ee99c55.chunk.css.map": "/pini-catalog/static/css/main.8ee99c55.chunk.css.map",
+    "static/js/2.98a5f8d9.chunk.js.LICENSE.txt": "/pini-catalog/static/js/2.98a5f8d9.chunk.js.LICENSE.txt",
+    "static/media/menu.a478fc7d.svg": "/pini-catalog/static/media/menu.a478fc7d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b90f076b.js",
+    "static/js/2.98a5f8d9.chunk.js",
+    "static/css/main.8ee99c55.chunk.css",
+    "static/js/main.97a2477a.chunk.js"
+  ]
+}
